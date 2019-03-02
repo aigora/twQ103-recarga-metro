@@ -1,11 +1,12 @@
-# Título del trabajo
+# Título: Recarga del abono de Metro
+Se trata de una recarga del abono de metro de la Comunidad de Madrid, para que cuando pasen los 30 días programados adquieras la recarga mensual y puedas realizar otras opciones como ver la disponibilidad geográfica de dicho abono y otras ciertas utilidades.
 
-Descripción breve del proyecto a realizar (2-3 frases).
 
 ## Integrantes del equipo
-
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Rafael García Gómez
+Susana González Miguel
+Hugo García las Heras
 
 ## Objetivos del trabajo
+Poner en práctica los conocimientos teóricos adquiridos durante las clases del curso de una manera interactiva y desarrollando un prograna útil muy aprovechado en la Comunidad de Madrid
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
