@@ -3,13 +3,13 @@ Se trata de una recarga del abono de metro de la Comunidad de Madrid, para que c
 
 
 ## Integrantes del equipo
-Rafael García Gómez    53204,
+Rafael García Gómez,
 
 
-Susana González Miguel 53357,
+Susana González Miguel,
 
 
-Hugo García las Heras  53344.
+Hugo García las Heras.
 
 ## Objetivos del trabajo
 Poner en práctica los conocimientos teóricos adquiridos durante las clases del curso de una manera interactiva y desarrollando un prograna útil muy aprovechado en la Comunidad de Madrid
